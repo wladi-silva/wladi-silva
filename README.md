@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wladi-silva
-- 👀 I’m interested in Desemvolvimento back-end
+- 👀 I’m interested in Desenvolvimento back-end
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Empresas de Tecnologia
 - 📫 How to reach me  wladibahia@gmail.com
