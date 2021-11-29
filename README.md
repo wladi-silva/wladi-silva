@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @wladi-silva
-- 👀 I’m interested in Desenvolvimento back-end
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Empresas de Tecnologia
-- 📫 How to reach me  wladibahia@gmail.com
+- 👋 Olá, eu sou @wladi-silva
+- 👀 Tenho interesse em Desenvolvimento back-end
+- 🌱 Estou atualmente me especializando em Java
+- 💞️ Estou a procura de oportunidades em Desenvolvimento
+- 📫 Entre em contato comigo: wladibahia@gmail.com
 
-<!---
-wladi-silva/wladi-silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
