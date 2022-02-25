@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou Wladimir Oliveira, mas pode me chamar de Wladi <br>
+# 👋 Olá, eu sou Wladimir Oliveira <br>
   👀 Tenho interesse em Desenvolvimento back-end <br>
   🌱 Estou atualmente me especializando em Java <br>
   💞️ Estou a procura de oportunidades em Desenvolvimento <br>
