@@ -23,4 +23,4 @@
   
   ##
   
- 
+  ![Snake animation](https://github.com/wladi-silva/wladi-silva/blob/output/github-contribution-grid-snake.svg)
