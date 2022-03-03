@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/wladi-silva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wladi-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wladi-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   </a>
   <a href="https://curriculo-ws.web.app">
      <img style="margin-left="80px";" height="180em" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
