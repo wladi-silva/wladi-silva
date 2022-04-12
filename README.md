@@ -1,8 +1,7 @@
 
 # 👋 Olá, eu sou Wladimir Oliveira <br>
-  👀 Tenho interesse em Desenvolvimento back-end <br>
-  🌱 Estou atualmente me especializando em Java <br>
-  💞️ Estou a procura de oportunidades em Desenvolvimento <br>
+
+  💞️  Estou atualmente me especializando em Java <br>
   📫 Entre em contato comigo: wladibahia@gmail.com <br>
   🌎 https://curriculo-ws.web.app
 
