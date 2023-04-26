@@ -1,9 +1,9 @@
 
 # 👋 Olá, eu sou Wladimir Oliveira <br>
 
-  💞️  Estou atualmente me especializando em Java <br>
+  💞️ Especializado em Back-End com Java <br>
   📫 Entre em contato comigo: wladibahia@gmail.com <br>
-  🌎 https://curriculo-ws.web.app
+  <!-- 🌎 https://curriculo-ws.web.app -->
 
 <div align="center">
   <a href="https://github.com/wladi-silva">
