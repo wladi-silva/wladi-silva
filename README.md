@@ -1,7 +1,8 @@
 
-# 👋 Olá, eu sou Wladimir Oliveira <br>
-
-  💞️ Especializado em Back-End com Java <br>
+# Olá, eu sou Wladimir Oliveira <br>
+  
+  😀 Desenvolvedor <br>
+  💞️ Apaixonado em Back-End com Java <br>
   📫 Entre em contato comigo: wladibahia@gmail.com <br>
   <!-- 🌎 https://curriculo-ws.web.app -->
 
@@ -19,7 +20,7 @@
   <img align="center" alt="Wladi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wladi-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Wladi-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Wladi-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Wladi-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
 </div>
   
