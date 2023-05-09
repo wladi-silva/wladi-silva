@@ -1,7 +1,7 @@
 
 # Olá, eu sou Wladimir Oliveira <br>
   
-  😀 Desenvolvedor <br>
+  😀 Software Developer <br>
   💞️ Apaixonado em Back-End com Java <br>
   📫 Entre em contato comigo: wladibahia@gmail.com <br>
   <!-- 🌎 https://curriculo-ws.web.app -->
