@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá 👋, Eu sou Wladi Silva</h1>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem">
-  <p>Desenvolvedor de Software, apaixonado por Back-End com JAVA</p>
+  <p>Desenvolvedor de Software, apaixonado por back-end com JAVA</p>
 </div>
 
 <h2 align="center">🔭 Linguagens e Ferramentas</h2>
@@ -21,7 +21,7 @@
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img src="https://github.com/wladi-silva/wladi-silva/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <!-- <img src="https://github.com/wladi-silva/wladi-silva/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"> -->
 </div>
 
 <h2 align="center">📊 Estatística</h2>
